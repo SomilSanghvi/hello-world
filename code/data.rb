@@ -16,4 +16,3 @@
 
 # - Combine strings and variables
 
-This is a test stage
